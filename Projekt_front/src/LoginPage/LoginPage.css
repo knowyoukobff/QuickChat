@@ -1,0 +1,56 @@
+.login-page-container{
+    width: 400px;
+    height: 600px;
+    background-color: #2196f3;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.roomInput{
+    width: 200px;
+    float: left;
+    clear: both;
+    background-color: #282C34;
+    color: azure;
+    border-radius: 20px;
+    border: 1px solid #e6e5e8;
+    padding: 1% 1%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.userInput{
+    width: 200px;
+    float: left;
+    clear: both;
+    background-color: #282C34;
+    color: azure;
+    border-radius: 20px;
+    border: 1px solid #e6e5e8;
+    padding: 1% 1%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.enter-room-button{
+    background-color: #282C34;
+    color: azure;
+    border-radius: 20px;
+    border: 1px solid #e6e5e8;
+    padding: 2% 5%;
+    margin-left: 160px;
+    margin-top: 50px;
+    float: left;
+    clear: both;
+    text-decoration: none;
+}
